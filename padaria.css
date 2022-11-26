@@ -1,0 +1,43 @@
+p {
+    font-size: 20px;
+    text-align: center;
+}
+
+.titulo-principal {
+    color: #5b2503;
+    text-align: center;
+}
+
+.subtitulo {
+    color: #ff8700;
+    text-align: center;
+}
+
+body {
+    background-color: #f5d9cb;
+}
+
+strong {
+    color: #7bb501;
+}
+
+ul {
+    font-size: 20px;
+}
+
+
+img {
+     margin-left: 25%;
+}
+
+#final {
+    background-color: #ffa98d;
+    text-align: center;
+}
+
+#lista-produtos {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%
+}
